@@ -13,6 +13,6 @@ L2 Servers where is was tested and work:
 if you want to know if it work on your server, let me know, contacts are below.
 There is no limitations on game where it can be used, but if you need let me know.
 
-for more information visit https://appcompile.com
-[Telegram]: https://t.me/drakvius
-[Discord]: https://discord.gg/UWnW25Bc
+for more information visit https://appcompile.com \n
+[Telegram]: https://t.me/drakvius \n
+[Discord]: https://discord.gg/UWnW25Bc \n
