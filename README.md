@@ -5,4 +5,14 @@ Program tested on Win10 x64, can not work on other's versions
 
 ![alt text](https://appcompile.com/img/Lineage2Loop.png)
 
+L2 Servers where is was tested and work:
+ + Asterios
+ + RuOff 4Game
+ + Rpg-Club
+
+if you want to know if it work on your server, let me know, contacts are below.
+There is no limitations on game where it can be used, but if you need let me know.
+
 for more information visit https://appcompile.com
+[Telegram]: https://t.me/drakvius
+[Discord]: https://discord.gg/UWnW25Bc
