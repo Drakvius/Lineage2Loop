@@ -10,7 +10,6 @@ L2 Servers where is was tested and work:
  + RuOff 4Game
  + Rpg-Club
 
-[VIDEO}: 
 [https://www.youtube.com/embed/mMBo10wPWzk](https://youtu.be/mMBo10wPWzk](https://youtu.be/mMBo10wPWzk)
 
 if you want to know if it work on your server, let me know, contacts are below.
