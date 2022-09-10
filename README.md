@@ -3,7 +3,7 @@
 Program for some party automation routine processes in Lineage 2 game, can send to active/inactive game windows 0-9(+-)/F1-F12 keys.
 Program tested on Win10 x64, can not work on other's versions
 
-![alt text](https://appcompile.com/img/Lineage2Loop.png)
+![alt text](https://appcompile.com/wp-content/uploads/2022/09/Lineage2LoopLight.png)
 
 L2 Servers where is was tested and work:
  + Asterios
