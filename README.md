@@ -4,14 +4,13 @@ Program for some party automation routine processes in Lineage 2 game, can send 
 Program tested on Win10 x64, can not work on other's versions
 
 ![alt text](https://appcompile.com/wp-content/uploads/2022/09/Lineage2LoopLight.png)
+![alt text](https://appcompile.com/wp-content/uploads/2022/09/Lineage2LoopDark.png)
+![alt text](https://appcompile.com/wp-content/uploads/2022/09/Lineage2LoopLightSettings.png)
 
 L2 Servers where is was tested and work:
- + Asterios
+ + Asterios (some functions may not work or not work properly)
  + RuOff 4Game
  + Rpg-Club
-
-Video:
-https://youtu.be/mMBo10wPWzk
 
 if you want to know if it work on your server, let me know, contacts are below.
 There is no limitations on game where it can be used, but if you need let me know.
