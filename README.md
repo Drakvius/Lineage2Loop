@@ -16,7 +16,7 @@ if you want to know if it work on your server, let me know, contacts are below.
 There is no limitations on game where it can be used, but if you need let me know.
 
 
-for more information visit https://appcompile.com <br>
+for more information visit <a href="https://appcompile.com">AppCompile.com</a> <br>
 [Telegram]: <a href="https://t.me/drakvius">Telegram Link</a> <br>
 [Discord]: <a href="https://discord.gg/UWnW25Bc">Discord Link</a> <br>
 
