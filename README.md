@@ -15,6 +15,12 @@ L2 Servers where is was tested and work:
 if you want to know if it work on your server, let me know, contacts are below.
 There is no limitations on game where it can be used, but if you need let me know.
 
+
 for more information visit https://appcompile.com <br>
-[Telegram]: https://t.me/drakvius <br>
-[Discord]: https://discord.gg/UWnW25Bc <br>
+[Telegram]: <a href="https://t.me/drakvius">Telegram Link</a> <br>
+[Discord]: <a href="https://discord.gg/UWnW25Bc">Discord Link</a> <br>
+
+<hr>
+[Release]
+
+<a href="https://github.com/Drakvius/Lineage2Loop/releases/tag/v1.0">Download last release.</a>
